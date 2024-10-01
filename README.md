@@ -1,4 +1,4 @@
-# BenI570.github.io
+# Benjamin Interlichia's Projects
 
 ## Future Projects
 - Print Hello World in Assembly
